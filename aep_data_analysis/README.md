@@ -1,13 +1,13 @@
 # American Electric Power (AEP) Data Analysis Project
 
-## 📌 Project Overview
+## 📌: Project Overview
 This project analyzes 15 years of hourly electricity consumption data from American Electric Power (AEP), spanning January 2004 to October 2018. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption/data), contains ~120,000 hourly records.
 
 The goal is to uncover energy consumption patterns across times of day, seasons, years, and holidays—insights that are valuable for planning, maintenance, and demand forecasting. Using **SQL** for data preparation and **Tableau** for visualization, raw data is transformed into actionable insights.
 
 ---
 
-## 🗂️ Repository Structure
+## 📁 Repository Structure
 
 - **data/**
   - `raw/` → Original dataset from kaggle
@@ -22,3 +22,31 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
   - `summary_tables/` → Aggregated tables or CSVs  
 
 - **README.md** → Project documentation
+
+## ⚙️ Tools Used
+- MySQL Workbench
+- Tableau Public
+- GitHub
+
+## 🔑 Key Steps
+1. Import raw dataset
+2. Clean with SQL
+3. Visualize with Tableau
+
+## 📊 Results
+- Insights for Hourly Trend
+    1. High energy demand occurs between 9:00 AM - 11:00 PM peaking at a load of 16,869 MW.
+    2. Low energy demand occurs between 12:00 AM - 8:00 AM hitting the lowest value at 13,096 MW.
+    3. The curve shows a daily load profile: low demand occurs overnight → rising through the day → peaks in the evening.
+- Insights for Holiday Trend
+    1. Christmas is not the peak which may be due to the some business establishments being closed.
+    2. The top 2 demanding holidays occurs in the winter season which may be due to higher heating demands.
+    3. The lowest demanding holiday is Columbus Day which occurs during fall where temperatures can be optimal to neither use heating/cooling
+- Insights for Annual Trend
+    1. 
+- 
+ 
+## ✍️ Author
+Alessandro Locsin — Registered Mechanical Engineer | Data Analyst
+
+
