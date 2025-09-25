@@ -21,7 +21,4 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
   - `charts/` → Visualizations exported from Tableau or Python  
   - `summary_tables/` → Aggregated tables or CSVs  
 
-- **images/**
-  - `screenshots/` → Before/after cleaning, Tableau dashboards, etc.  
-
 - **README.md** → Project documentation
