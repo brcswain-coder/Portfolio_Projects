@@ -9,3 +9,19 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
 
 ## 🗂️ Repository Structure
 
+- **data/**
+  - `raw/` → Original dataset from kaggle
+  - `cleaned/` → Processed datasets after SQL cleaning
+
+- **scripts/**
+  - `aep_data_cleaning.sql` → SQL script for cleaning and transforming data  
+  - `aep_data_exploration.sql` → SQL script for exploratory queries  
+
+- **outputs/**
+  - `charts/` → Visualizations exported from Tableau or Python  
+  - `summary_tables/` → Aggregated tables or CSVs  
+
+- **images/**
+  - `screenshots/` → Before/after cleaning, Tableau dashboards, etc.  
+
+- **README.md** → Project documentation
