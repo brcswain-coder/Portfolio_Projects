@@ -1,0 +1,12 @@
+month_day,holiday_name,holiday_avg_mw,overall_holiday_avg,pct_diff
+January-15,"Martin Luther King Jr. Day",17419.9702,15261.0517,14.15
+February-19,"Presidents Day",16934.1280,15261.0517,10.96
+June-19,Juneteenth,15979.5030,15261.0517,4.71
+September-02,"Labor Day",15568.5064,15261.0517,2.01
+January-01,"New Year's Day",15204.3185,15261.0517,-0.37
+November-28,"Thanksgiving Day",15179.5179,15261.0517,-0.53
+November-11,"Veterans Day",14911.6131,15261.0517,-2.29
+May-27,"Memorial Day",14568.8839,15261.0517,-4.54
+July-04,"Independence Day",14259.5685,15261.0517,-6.56
+December-25,"Christmas Day",14167.2708,15261.0517,-7.17
+October-14,"Columbus Day",13678.2887,15261.0517,-10.37
