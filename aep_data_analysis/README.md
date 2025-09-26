@@ -18,7 +18,7 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
   - `aep_data_exploration.sql` → SQL script for exploratory queries  
 
 - **outputs/**
-  - `charts/` → Visualizations exported from Tableau or Python  
+  - `charts/` → Visualizations exported from Tableau 
   - `summary_tables/` → Aggregated tables or CSVs  
 
 - **README.md** → Project documentation
