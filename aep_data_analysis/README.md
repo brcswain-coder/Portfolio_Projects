@@ -31,7 +31,8 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
 ## 🔑 Key Steps
 1. Import raw dataset
 2. Clean with SQL
-3. Visualize with Tableau
+3. Export summarized data
+4. Visualize with Tableau
 
 ## 📊 Results
 - Insights for Hourly Trend
@@ -43,10 +44,13 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
     2. The top 2 demanding holidays occurs in the winter season which may be due to higher heating demands.
     3. The lowest demanding holiday is Columbus Day which occurs during fall where temperatures can be optimal to neither use heating/cooling
 - Insights for Annual Trend
-    1. 
-- 
- 
+    1. There is an overall decline in annual and peak consumption starting on year 2008.
+    2. The load factor peaked at  67.44% on 2010 and the trend continued to decline which meant that energy is used ineffienctly through out the years.
+- Insights for Seasonal Trend
+    1. There is a similarity between the cycle for energy demand for fall, spring, and winter: low demand occurs overnight → rising through the day → peaks in the evening.
+    2.  Summer season energy demand cycle transitions from low to high at noon time.
+       
 ## ✍️ Author
-Alessandro Locsin — Registered Mechanical Engineer | Data Analyst
+Alessandro Locsin — Registered Mechanical Engineer | Data Analyst Practitioner
 
 
