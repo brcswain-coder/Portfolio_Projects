@@ -18,14 +18,12 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
   - `aep_data_exploration.sql` → SQL script for exploratory queries  
 
 - **outputs/**
-  Aggregated tables or CSVs:
-  - `annual_aep.csv/` 
-  - `holiday_aep.csv/`
-  - `hourly_aep.csv/`
-  - `seasonal_aep.csv/`
+  - `annual_aep.csv/` → Annual aggregated AEP data
+  - `holiday_aep.csv/` → Holiday-specific aggregated AEP data
+  - `hourly_aep.csv/` → Hourly aggregated AEP data
+  - `seasonal_aep.csv/` → Seasonal aggregated AEP data
 
 - **visuals/**
-  Visualizations exported from Tableau:
   - `AEP_charts.twbx/`
   - `Dashboard 1.png/`
   - `Dashboard 2.png/`
