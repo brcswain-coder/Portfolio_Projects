@@ -10,8 +10,8 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
 ## 📁 Repository Structure
 
 - **data/**
-  - `raw/` → Original dataset from kaggle
-  - `cleaned/` → Processed datasets after SQL cleaning
+  - `aep_hourly_raw.csv/` → Original dataset from kaggle
+  - `aep_hourly_clean.csv/` → Processed datasets after SQL cleaning
 
 - **scripts/**
   - `aep_data_cleaning.sql` → SQL script for cleaning and transforming data  
