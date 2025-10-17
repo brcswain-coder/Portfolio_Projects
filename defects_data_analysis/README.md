@@ -12,6 +12,7 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 
 ## 📁 Repository Structure
 - `data/` – raw and processed datasets
-- `scripts/` – analysis and processing scripts
+- `scripts/` – cleaning, analysis and processing scripts
 - `outputs/` – aggregated tables and CSVs
 - `visuals/` – charts and dashboards
+
