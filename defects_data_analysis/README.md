@@ -29,9 +29,12 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 
 ## 📊 Results
 - Quality Control Analysis
-    1. 
+    1. Daily and monthly trend analysis revealed a drop in defect counts, indicating greater process stability and proactive quality control.
+    2. Pareto analysis of defect type frequency indicates that **structural** and **functional** defect types account for ~70% of all defect types. Prioritizing these categories would yield significant impact on overall defect reduction.
 - Process Improvement
-    1.
+    1. Defect location Pareto analysis revealed that nearly ~70% of all defects originated at the **surface** and **component** stages. Prioritizing corrective actions on the machines associated with these locations would significantly enhance process efficiency.
+    2. Pareto analysis revealed that defects detected through **manual testing** and **visual inspection** account for ~70% of repair costs. Prioritizing improvements on these methods would provide long-term reduction in repair costs.
+    3. 
 - Cost Analysis
     1. 
 - Product Quality Assurance
