@@ -11,5 +11,16 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 ---
 
 ## 📁 Repository Structure
+- **data/**
+  - `raw/`
+  - `cleaned/`
+
+- **scripts/**
+  - `data_cleaning.sql/`
+  - `data_exploration/`
+ 
+- **outputs/**
+  - 
+
 
 
