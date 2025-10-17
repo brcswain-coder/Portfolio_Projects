@@ -24,9 +24,9 @@ The goal is to uncover energy consumption patterns across times of day, seasons,
   - `seasonal_aep.csv/` → Seasonal aggregated AEP data
 
 - **visuals/**
-  - `AEP_charts.twbx/`
-  - `Dashboard 1.png/`
-  - `Dashboard 2.png/`
+  - `AEP_charts.twbx/` → Tableau workbook file
+  - `Dashboard 1.png/` → Contains hourly and seasonal charts
+  - `Dashboard 2.png/` → Contains annual and holiday charts
 
 - **README.md** → Project documentation
 
