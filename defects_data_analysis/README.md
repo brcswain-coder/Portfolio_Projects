@@ -11,16 +11,7 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 ---
 
 ## 📁 Repository Structure
-- **data/**
-  - `raw/`
-  - `cleaned/`
-
-- **scripts/**
-  - `data_cleaning.sql/`
-  - `data_exploration/`
- 
-- **outputs/**
-  - Includes summary tables
+├── data/          # Raw and processed datasets ├── scripts/       # Python/SQL/Tableau scripts for data processing and analysis ├── outputs/       # Aggregated tables and CSV files ├── visuals/       # Charts, dashboards, and other visualizations └── README.md      # Project overview and documentation
 
 
 
