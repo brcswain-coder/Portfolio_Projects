@@ -16,3 +16,28 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 - `outputs/` – aggregated tables and CSVs
 - `visuals/` – charts and dashboards
 
+## ⚙️ Tools Used
+- MySQL Workbench
+- Tableau Public
+- GitHub
+
+## 🔑 Key Steps
+1. Import raw dataset
+2. Clean with SQL
+3. Export summarized data
+4. Visualize with Tableau
+
+## 📊 Results
+- Quality Control Analysis
+    1. 
+- Process Improvement
+    1.
+- Cost Analysis
+    1. 
+- Product Quality Assurance
+    1. 
+
+       
+## ✍️ Author
+Alessandro Locsin — Registered Mechanical Engineer | Data Analyst Practitioner
+
