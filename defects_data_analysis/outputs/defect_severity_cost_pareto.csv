@@ -1,0 +1,10 @@
+defect_type,severity,total_cost,pct_of_total,cumulative_pct
+Structural,Minor,73738.02,14.53,14.53
+Functional,Critical,62447.91,12.3,26.83
+Cosmetic,Minor,57626.72,11.35,38.18
+Functional,Moderate,56655.44,11.16,49.34
+Structural,Critical,55831.91,11,60.34
+Functional,Minor,52802.23,10.4,70.74
+Cosmetic,Moderate,50995.57,10.05,80.79
+Cosmetic,Critical,50175.43,9.88,90.67
+Structural,Moderate,47353.92,9.33,100

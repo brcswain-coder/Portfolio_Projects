@@ -1,0 +1,4 @@
+defect_type,total_cost,pct_of_total,cumulative_pct
+Structural,176923.85,34.85,34.85
+Functional,171905.58,33.86,68.72
+Cosmetic,158797.72,31.28,100

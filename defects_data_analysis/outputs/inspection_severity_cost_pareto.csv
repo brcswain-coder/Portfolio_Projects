@@ -1,0 +1,10 @@
+inspection_method,severity,total_cost,pct_of_total,cumulative_pct
+"Manual Testing",Minor,71124.45,14.01,14.01
+"Manual Testing",Critical,62350.98,12.28,26.29
+"Visual Inspection",Minor,62337.35,12.28,38.57
+"Visual Inspection",Moderate,58804.7,11.58,50.15
+"Automated Testing",Critical,53833.34,10.6,60.75
+"Visual Inspection",Critical,52270.93,10.3,71.05
+"Manual Testing",Moderate,51702.86,10.19,81.24
+"Automated Testing",Minor,50705.17,9.99,91.23
+"Automated Testing",Moderate,44497.37,8.77,100

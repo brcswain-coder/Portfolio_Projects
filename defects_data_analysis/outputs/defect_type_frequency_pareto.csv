@@ -1,0 +1,4 @@
+defect_type,defect_count,pct_of_total,cumulative_pct
+Structural,352,35.20,35.20
+Functional,339,33.90,69.10
+Cosmetic,309,30.90,100.00

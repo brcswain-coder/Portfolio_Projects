@@ -1,0 +1,4 @@
+defect_location,defect_count,pct_of_total,cumulative_pct
+Surface,353,35.30,35.30
+Component,326,32.60,67.90
+Internal,321,32.10,100.00

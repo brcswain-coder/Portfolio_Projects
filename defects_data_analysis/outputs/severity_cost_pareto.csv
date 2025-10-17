@@ -1,0 +1,4 @@
+severity,total_cost,pct_of_total,cumulative_pct
+Minor,184166.97,36.28,36.28
+Critical,168455.25,33.18,69.46
+Moderate,155004.93,30.54,100

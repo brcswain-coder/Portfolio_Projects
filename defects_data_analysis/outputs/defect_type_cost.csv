@@ -1,0 +1,4 @@
+defect_type,total_cost,avg_cost
+Structural,176923.85,502.62
+Functional,171905.58,507.1
+Cosmetic,158797.72,513.91

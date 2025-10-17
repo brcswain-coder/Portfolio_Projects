@@ -1,0 +1,4 @@
+inspection_method,total_cost,pct_of_total,cumulative_pct
+"Manual Testing",185178.29,36.48,36.48
+"Visual Inspection",173412.98,34.16,70.64
+"Automated Testing",149035.88,29.36,100
