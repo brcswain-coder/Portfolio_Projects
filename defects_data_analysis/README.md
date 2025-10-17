@@ -20,7 +20,7 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
   - `data_exploration/`
  
 - **outputs/**
-  - 
+  - Includes summary tables
 
 
 
