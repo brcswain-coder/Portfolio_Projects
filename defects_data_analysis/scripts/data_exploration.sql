@@ -148,7 +148,7 @@ SELECT
 FROM sev_sum;
 
 
--- Defect type, severity and cost relation for Pareto Analysis
+-- Defect type, severity and cost relation forpareto analysis
 
 /**  Searching for the specific combination of defect type 
 and its severity that account for significant repair cost. **/
@@ -183,7 +183,7 @@ SELECT
 FROM cost_pct;
 
 
--- Inspection method and repair cost for Pareto Analysis
+-- Inspection method and repair cost for pareto analysis
 WITH ins_sum AS
 (
 SELECT
@@ -240,7 +240,7 @@ FROM pct;
 
 
 -- Pinpointing the specific products that has high-impact defects and costs
--- Product ID defect frequency for Pareto Analysis
+-- Product ID defect frequency for pareto analysis
 
 WITH product AS
 (
@@ -262,7 +262,7 @@ SELECT
 FROM product;
 
 
--- Product ID and repair cost for Pareto Analysis
+-- Product ID and repair cost for pareto analysis
 WITH prod_cost AS
 (
 SELECT
