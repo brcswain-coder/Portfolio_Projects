@@ -23,7 +23,7 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 
 ## 🔑 Key Steps
 1. Import raw dataset
-2. Clean with SQL
+2. Clean and explore with SQL
 3. Export summarized data
 4. Visualize with Tableau
 
