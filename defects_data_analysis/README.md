@@ -36,7 +36,7 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
     2. Pareto analysis revealed that defects detected through **manual testing** and **visual inspection** account for ~70% of repair costs. Prioritizing improvements on these methods would provide long-term reduction in repair costs.
     3. Pareto analysis indicates the **top seven** defect type-severity combination that amount to 81% of overall repair costs. The remaining combinations that account for nearly 20% can be deprioritized for later improvement cycles.
 - Cost Analysis
-    1. The cost analysis aligns with the defect type frequency results, showing that structural and functional defects together represent the largest share of total repair costs. This consistency highlights these categories as the most critical targets for quality improvement initiatives.
+    1. The cost analysis aligns with the defect type frequency results, showing that **structural** and **functional** defects together represent the largest share of total repair costs. This consistency highlights these categories as the most critical targets for quality improvement initiatives.
     2. Contrary to the norm that **critical** defects are the primary cost drivers, Pareto analysis revealed that **minor** defects actually contribute the highest share of repair costs along with critical defects to account for ~70% of the total repair expenses. Prioritizing both would yield the greatest cost reduction impact.
     3. to be continued...
 - Product Quality Assurance
