@@ -46,10 +46,10 @@ This project demonstrates key elements of a Quality Management System (QMS)—in
 - **Note**: A separate dashboard for Product IDs was created for pinpointing the specific products that account for 80% of the defects and repair costs.
 
 ## Conclusion
-- Structural and functional defects dominate both frequency and cost, making them the top priority for defect reduction and quality improvement.
-- Surface and component stages account for the majority of defects, highlighting the machines at these locations as key targets for process optimization.
-- Minor and critical defects together drive ~70% of repair costs, challenging the assumption that only critical issues matter and guiding smarter QA resource allocation.
-- Manual testing and visual inspection detect defects responsible for ~70–80% of total repair costs, reinforcing them as the most impactful inspection methods for investment.
+- **Structural and functional defects** dominate both frequency and cost, making them the top priority for defect reduction and quality improvement.
+- **Surface and component stages** account for the majority of defects, highlighting the machines at these locations as key targets for process optimization.
+- **Minor and critical defects** together drive ~70% of repair costs, challenging the assumption that only critical issues matter and guiding smarter QA resource allocation.
+- **Manual testing and visual inspection** detect defects responsible for ~70–80% of total repair costs, reinforcing them as the most impactful inspection methods for investment.
 - Pareto analysis across defect type–severity combinations shows that focusing on the top categories (≈80% of costs) delivers the greatest impact, while lower‑impact combinations can be deprioritized for later cycles.
 
        
